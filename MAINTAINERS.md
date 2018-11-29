@@ -7,3 +7,4 @@
 * Matthew Ploszaj (@mattyplo)
 * Amanda Crosley (@AmandaCrosley)
 * Finn Herzfeld (@thefinn93)
+* Justin Clark (@jeti-master)
