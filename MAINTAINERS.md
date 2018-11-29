@@ -5,4 +5,4 @@
 * Steve Balo (@balo)
 * Matthew Ploszaj (@mattyplo)
 * Amanda Crosley (@AmandaCrosley)
-
+* Finn Herzfeld (@thefinn93)
