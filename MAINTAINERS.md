@@ -2,3 +2,4 @@
 * Francesco Ward (@FrancescoWard)
 * Brad Nissen (@BigTimeBrad)
 * Steve Balo (@balo)
+* Amanda Crosley (@AmandaCrosley)
