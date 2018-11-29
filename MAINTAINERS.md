@@ -5,3 +5,4 @@
 * Brad Nissen (@BigTimeBrad)
 * Steve Balo (@balo)
 * Amanda Crosley (@AmandaCrosley)
+* Finn Herzfeld (@thefinn93)
