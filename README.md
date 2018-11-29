@@ -14,3 +14,4 @@ To regenerate the website
 . venv/bin/activate
 pelican
 ```
+[![CircleCI](https://circleci.com/gh/bigTimeBrad/website.svg?style=svg)](https://circleci.com/gh/bigTimeBrad/website)
