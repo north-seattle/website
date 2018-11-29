@@ -5,6 +5,3 @@
 * Steve Balo (@balo)
 * Matthew Ploszaj (@mattyplo)
 * Amanda Crosley (@AmandaCrosley)
-
-
-test
