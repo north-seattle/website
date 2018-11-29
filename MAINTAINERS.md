@@ -2,6 +2,5 @@
 * Brad Nissen (@BigTimeBrad)
 * Dan Ryan (@danry25)
 * Francesco Ward (@FrancescoWard)
-* Brad Nissen (@BigTimeBrad)
 * Steve Balo (@balo)
 * Amanda Crosley (@AmandaCrosley)
