@@ -1,4 +1,6 @@
 * Timothy Crosley (@tcrosley)
+* Brad Nissen (@BigTimeBrad)
+* Dan Ryan (@danry25)
 * Francesco Ward (@FrancescoWard)
 * Brad Nissen (@BigTimeBrad)
 * Steve Balo (@balo)
