@@ -31,5 +31,13 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = 10
 
+# Manage menu
+DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = False
+MENUITEMS = (
+  ('Home', '/'),
+  ('Code of Conduct', '/codeofconduct.html')
+)
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

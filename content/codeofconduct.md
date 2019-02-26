@@ -1,7 +1,8 @@
 Title: Code of Conduct
 Date: 2019-02-25
 Author: Clark Winters
-Category: Administrative
+Category_save_as: ''
+save_as: codeofconduct.html
 
 North Seattle Tech Talks hosts many community events that are open to a wide variety of attendees, beyond just those in the local community. These events are often hosted through a partnership with other local groups and institutions. Events range in purpose from bringing the community together, to making a reverberating impact across Seattle.
 

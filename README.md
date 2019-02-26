@@ -14,7 +14,7 @@ Put new content in the `content` directory
 To regenerate the website
 ```
 . venv/bin/activate
-pelican ./content
+pelican ./content -s pelicanconf.py
 ```
 
 To launch the site locally
