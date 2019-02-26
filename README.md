@@ -9,8 +9,10 @@ python3 -m venv venv
 pip install -r requirements.txt
 ```
 
+Put new content in the `content` directory
+
 To regenerate the website
 ```
 . venv/bin/activate
-pelican
+pelican ./content
 ```
