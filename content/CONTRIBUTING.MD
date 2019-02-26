@@ -18,4 +18,6 @@ Now clone the forked repository to your machine. Go to your GitHub account, open
 
 Open a terminal and run the following git command:
 
-'git clone "this-is-what-you-just-copied" '
+```
+git clone "this-is-what-you-just-copied"
+```
