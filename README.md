@@ -16,3 +16,9 @@ To regenerate the website
 . venv/bin/activate
 pelican ./content
 ```
+
+To launch the site locally
+```
+pelican ./output --listen
+```
+Then navigate to localhost:8000 in your browser :)
