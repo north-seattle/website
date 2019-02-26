@@ -8,3 +8,4 @@
 * Amanda Crosley (@AmandaCrosley)
 * Finn Herzfeld (@thefinn93)
 * Justin Clark (@jeti-master)
+* Brent Bartlett (@polsvoice)
