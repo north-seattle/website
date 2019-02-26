@@ -42,7 +42,4 @@ BAD  --> "Fixed Bug."
 
 ## A properly formed git commit subject line should always be able to complete the following sentence
 
-If applied, this commit will <your subject line here>
-
-
-for a detailed list of guidelines, see this document here 
+If applied, this commit will... 'commit message'
