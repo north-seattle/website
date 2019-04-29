@@ -10,8 +10,8 @@ North Seattle Hackathons aim to draw from a diverse set of background and experi
 
 ## Python
 Any submission of Python code should closely follow the [PEP 8](https://www.python.org/dev/peps/pep-0008/) coding guidelines.
-To ensure a consistent format beyond PEP8, code should be linted with [black](https://github.com/ambv/black), with lines can be up to 100
-characters long.  Imports should be sorted with [isort](https://github.com/timothycrosley/isort).
+To ensure a consistent format beyond PEP8, code should be linted with [black](https://github.com/ambv/black), with a line-length limit of 100
+characters.  Imports should be sorted with [isort](https://github.com/timothycrosley/isort) using black compatible settings.
 
 Suggested commands before sending a Python pull-request or creating a new repository that utilizes Python code:
 
