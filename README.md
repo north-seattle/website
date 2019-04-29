@@ -1,4 +1,4 @@
-# northseattle.dev
+# [northseattle.dev](https://northseattle.dev)
 A website for North Seattle Tech Talks and Open Source Hackathons
 
 ## Adding Content
