@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'North Seattle College'
-SITENAME = 'North Seattle Open Source'
+SITENAME = 'North Seattle Developers'
 SITEURL = 'https://northseattle.dev'
 
 PATH = 'content'
