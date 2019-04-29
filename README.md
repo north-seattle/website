@@ -4,7 +4,7 @@ A website for North Seattle Tech Talks and Open Source Hackathons
 ## Adding Content
 
 Put new content in the `content` directory. By default, new content is added as an additional article on the site. If the content is intended to render as a new tab at the top of the site, place it in the `content/pages` sub-directory.
-This content should follow the [markdown standard](https://commonmark.org/help/) and be placed in `.md` files. These markdown files should have all lower-case file names, separating works by `_`.
+This content should follow the [markdown standard](https://commonmark.org/help/) and be placed in `.md` files. These markdown files should have all lower-case file names, separating words by `_`.
 You can test the formatting before submitting a pull-request to the project using an online [interactive markdown previewer](https://spec.commonmark.org/dingus/), or by setting the project up locally as detailed below.
 Above the markdown content there is also a collection of meta-data that can be applied to change where and how the content renders, and give credit to the original author.
 For Example:
