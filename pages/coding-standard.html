@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
         <meta charset="utf-8" />
-        <title>Welcome!</title>
+        <title>Coding Standard</title>
         <link rel="stylesheet" href="https://northseattle.dev/theme/css/main.css" />
 </head>
 
@@ -16,28 +16,18 @@
                 </ul></nav>
         </header><!-- /#banner -->
 <section id="content" class="body">
-  <article>
-    <header>
-      <h1 class="entry-title">
-        <a href="https://northseattle.dev/welcome.html" rel="bookmark"
-           title="Permalink to Welcome!">Welcome!</a></h1>
-    </header>
-
-    <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2019-02-25T00:00:00-08:00">
-                Published: Mon 25 February 2019
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="https://northseattle.dev/author/clark-winters.html">Clark Winters</a>
-        </address>
-<p>In <a href="https://northseattle.dev/category/misc.html">misc</a>.</p>
-
-</footer><!-- /.post-info -->      <p>Welcome to North Seattle Tech Talks!</p>
-    </div><!-- /.entry-content -->
-
-  </article>
+    <h1 class="entry-title">Coding Standard</h1>
+    
+    <h1>Programming Language Standards</h1>
+<p>North Seattle Hackathons aim to draw from a diverse set of background and experience to build a variety of great Open Source projects. Toward that goal, we hope to accept and grow projects that use a variety of different programming languages. However, once a programmer has mastered a programming language, we hope to enable them to quickly switch between any North Seattle project that uses that language. To facilitate this goal, we aim to specify a shared set of language-specific style guidelines here, that every project using that language should follow. They can, optionally, add onto these guidelines with stricter requirements as they are needed for individual projects. When a project finds the need to do that, they should specify the additional requirements in a CODING_STANDARD.md file in the root of the project's repo. Either way, projects that choose to follow these standards should link back to this article as the base for their standards in their CODING_STANDARD.md file. Some projects may have started life outside of the North Seattle Hackathon community, they are welcome to move their standards to match these but are not required to do so.</p>
+<h2>Python</h2>
+<p>Any submission of Python code should closely follow the <a href="https://www.python.org/dev/peps/pep-0008/">PEP 8</a> coding guidelines.
+To ensure a consistent format beyond PEP8, code should be linted with <a href="https://github.com/ambv/black">black</a>, with a line-length limit of 100
+characters.  Imports should be sorted with <a href="https://github.com/timothycrosley/isort">isort</a> using black compatible settings.</p>
+<p>Suggested commands before sending a Python pull-request or creating a new repository that utilizes Python code:</p>
+<div class="highlight"><pre><span></span>$ black -l <span class="m">100</span> .
+$ isort . -rc -m <span class="m">3</span> -tc -fgw <span class="m">0</span> -up -w <span class="m">100</span>
+</pre></div>
 </section>
         <section id="extras" class="body">
                 <div class="blogroll">
