@@ -1,5 +1,7 @@
 # [northseattle.dev](https://northseattle.dev)
-This repostitory contains the code and source content that poweres northseattle.dev - a website for North Seattle Tech Talks and Open Source Hackathons.
+This repository contains the code and source content that powers northseattle.dev - a website for North Seattle Tech Talks and Open Source Hackathons.
+This project is made possible by the contributions of [many contributors](https://github.com/north-seattle/website/blob/master/ACKNOWLEDGEMENTS.md).
+
 
 ## Adding Content
 
@@ -17,7 +19,7 @@ save_as: codeofconduct.html
 ```
 The most important meta-data parameters to set are: Title, Date, and Author.
 See: [Pelican's content article](http://docs.getpelican.com/en/3.6.3/content.html) for more information.
-For a complete guide to contributing to the website see: [CONTRIBUTING.md](https://github.com/north-seattle/website/blob/master/CONTRIBUTING.MD).
+For a complete guide to contributing to the website see: [CONTRIBUTING.md](https://github.com/north-seattle/website/blob/master/CONTRIBUTING.md).
 Once the content is added to the master branch it will automatically be deployed to the website via CI/CD, so be careful what you merge into this branch!
 
 ## Initial setup for development locally
