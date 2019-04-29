@@ -1,0 +1,7 @@
+language: python
+python: 3.6
+script: bash ./deploy.sh
+env:
+  global:
+  - ENCRYPTION_LABEL: "c02c4263b9cd"
+  - COMMIT_AUTHOR_EMAIL: "nstt.in.practice@gmail.com"
