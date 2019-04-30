@@ -11,3 +11,4 @@ Original Creators & Maintainers
 * Finn Herzfeld (@thefinn93)
 * Justin Clark (@jeti-master)
 * Brent Bartlett (@polsvoice)
+* Vita Wiebe (@Vita_Rox)
