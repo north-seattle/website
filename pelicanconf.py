@@ -37,7 +37,8 @@ DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = (
   ('Home', '/'),
   ('Code of Conduct', '/pages/code-of-conduct.html'),
-  ('Coding Standard', '/pages/coding-standard.html')
+  ('Coding Standard', '/pages/coding-standard.html'), 
+  ('New Project/Idea Submit', '/pages/new-project-talk-submit.html')
 )
 
 # Uncomment following line if you want document-relative URLs when developing
