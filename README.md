@@ -1,5 +1,7 @@
 [![northseattle.dev](https://raw.githubusercontent.com/north-seattle/website/master/artwork/banner.png)](https://northseattle.dev)
 ===================
+[![Build Status](https://dev.azure.com/bigbradtime/NSCwebsite/_apis/build/status/bigTimeBrad.website?branchName=master)](https://dev.azure.com/bigbradtime/NSCwebsite/_build/latest?definitionId=4&branchName=master)
+===================
 
 This repository contains the code and source content that powers northseattle.dev - a website for North Seattle Tech Talks and Open Source Hackathons.
 This project is made possible by the contributions of [many contributors](https://github.com/north-seattle/website/blob/master/ACKNOWLEDGEMENTS.md).
