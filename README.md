@@ -1,6 +1,13 @@
 [![northseattle.dev](https://raw.githubusercontent.com/north-seattle/website/master/artwork/banner.png)](https://northseattle.dev)
 ===================
 
+[![Build Status](https://travis-ci.org/north-seattle/website.svg?branch=master)](https://travis-ci.org/north-seattle/website)
+![Bugzilla bug status](https://img.shields.io/github/contributors/north-seattle/website.svg?color=blue)
+![Bugzilla bug status](https://img.shields.io/github/forks/north-seattle/website.svg?label=Forks&style=social)
+
+
+===================
+
 This repository contains the code and source content that powers northseattle.dev - a website for North Seattle Tech Talks and Open Source Hackathons.
 This project is made possible by the contributions of [many contributors](https://github.com/north-seattle/website/blob/master/ACKNOWLEDGEMENTS.md).
 
@@ -75,4 +82,4 @@ Once the content is added to the master branch it will automatically be deployed
     - `pelican`
 3. Start a local pelican server
     - `pelican --listen`
-4. Navigate to [localhost:8000](http://localhost:8000/) in your browser :)
+4. Navigate to [localhost:8000](http://localhost:8000/) in your browser :smile:
