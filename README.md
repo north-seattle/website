@@ -1,6 +1,11 @@
 [![northseattle.dev](https://raw.githubusercontent.com/north-seattle/website/master/artwork/banner.png)](https://northseattle.dev)
 ===================
-[![Build Status](https://dev.azure.com/bigbradtime/NSCwebsite/_apis/build/status/bigTimeBrad.website?branchName=master)](https://dev.azure.com/bigbradtime/NSCwebsite/_build/latest?definitionId=4&branchName=master)
+
+[![Build Status](https://travis-ci.org/north-seattle/website.svg?branch=master)](https://travis-ci.org/north-seattle/website)
+![Bugzilla bug status](https://img.shields.io/github/contributors/north-seattle/website.svg?color=blue)
+![Bugzilla bug status](https://img.shields.io/github/forks/north-seattle/website.svg?label=Forks&style=social)
+
+
 ===================
 
 This repository contains the code and source content that powers northseattle.dev - a website for North Seattle Tech Talks and Open Source Hackathons.
